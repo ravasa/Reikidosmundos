@@ -1,0 +1,6 @@
+{
+  "name": "Reiki Dos Mundos - Centro de Terapias Naturales",
+  "description": "Sitio web de Reiki Dos Mundos y Carmen Menza en Cornellà de Llobregat. Terapias naturales: Reiki, Coaching Emocional, Kinesis, Ley de la Atracción, Canalización, Regresiones y Sanación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
